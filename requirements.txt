@@ -1,2 +1,2 @@
-telebot==4.15.2
+pyTelegramAPI==4.15.2
 requests==2.31.0
